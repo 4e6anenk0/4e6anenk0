@@ -1,8 +1,8 @@
 ### Hi there 👋
-Contact me:
-Telegram: https://t.me/grasey11
-Mail: serhiichebanenko@yahoo.com
-Discord: 4e6anenk0#2517
+#### Contact me:
+- Telegram: https://t.me/grasey11
+- Mail: serhiichebanenko@yahoo.com
+- Discord: 4e6anenk0#2517
 <!--
 **4e6anenk0/4e6anenk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
