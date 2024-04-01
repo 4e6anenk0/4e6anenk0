@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Contact me:
-- Telegram: https://t.me/grasey11
+- Telegram: https://t.me/CamelCaseName
 - Mail: serhiichebanenko@yahoo.com
 - Discord: 4e6anenk0#2517
 <!--
