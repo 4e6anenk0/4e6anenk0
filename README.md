@@ -15,7 +15,5 @@ My Favorite Languages:
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/serhii-chebanenko-1713a7114/) 
 - [Email](mailto:serhiichebanenko@yahoo.com)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4e6anenk0&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats:
+![4e6anenk0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4e6anenk0&theme=algolia&show_icons=true&hide_border=true&layout=compact)
