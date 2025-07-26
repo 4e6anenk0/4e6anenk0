@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Serg. 
 #### Contact me:
 - Telegram: https://t.me/CamelCaseName
 - Mail: serhiichebanenko@yahoo.com
