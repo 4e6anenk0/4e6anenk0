@@ -14,6 +14,3 @@ My Favorite Languages:
 ### 🌐 Contact Me:
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/serhii-chebanenko-1713a7114/) 
 - [Email](mailto:serhiichebanenko@yahoo.com)
-
-### 📊 GitHub Stats:
-![4e6anenk0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4e6anenk0&theme=algolia&show_icons=true&hide_border=true&layout=compact)
