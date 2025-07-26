@@ -7,11 +7,13 @@
 - Based in Ukraine, interested in global tech and startup ecosystems
 
 My Favorite Languages:
+<img alt="Static Badge" src="https://img.shields.io/badge/python-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/dart-%2329b6f6">
+<img alt="Static Badge" src="https://img.shields.io/badge/rust-red">
 
-[![My Skills](https://skillicons.dev/icons?i=dart,python,rust)](https://skillicons.dev)
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/serhii-chebanenko-1713a7114/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serhiichebanenko@yahoo.com) 
+### 🌐 Contact Me:
+- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/serhii-chebanenko-1713a7114/) 
+- [Email](mailto:serhiichebanenko@yahoo.com)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4e6anenk0&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
