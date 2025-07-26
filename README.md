@@ -12,5 +12,5 @@ My Favorite Languages:
 <img alt="Static Badge" src="https://img.shields.io/badge/rust-red">
 
 ### 🌐 Contact Me:
-- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/serhii-chebanenko-1713a7114/) 
+- [LinkedIn](www.linkedin.com/in/4e6anenk0) 
 - [Email](mailto:serhiichebanenko@yahoo.com)
